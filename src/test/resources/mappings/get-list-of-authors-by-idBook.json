@@ -1,0 +1,15 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/v1/Authors/authors/books",
+    "queryParameters": {
+      "idBook": {
+        "equalTo": "5"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "get-list-of-authors-by-idBook-response.json"
+  }
+}

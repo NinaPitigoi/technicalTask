@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/v1/Authors"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "get-list-of-authors-response.json"
+  }
+}

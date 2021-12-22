@@ -1,0 +1,6 @@
+Steps:
+    1. Create the wiremock server and start
+    2. Configure the server to intercept the request
+    3. Stub for the request
+      3.1 Create the mock response
+    4. Shutdown the wiremock server
